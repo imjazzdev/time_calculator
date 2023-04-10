@@ -1,13 +1,9 @@
-# time_calculator
+# Time Calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-![Group 23 (1)](https://user-images.githubusercontent.com/113785858/230838766-1d23e911-76a5-4155-a6a0-9cd23346587d.png)
-![Group 24 (1)](https://user-images.githubusercontent.com/113785858/230838771-ef712911-8aca-44bc-bddd-2836f5ff3d8a.png)
-![Group 25 (1)](https://user-images.githubusercontent.com/113785858/230838775-6b0dbb39-7323-4b62-aff9-99764748bbcb.png)
+![Group 25](https://user-images.githubusercontent.com/113785858/230839212-708d6cc9-8114-49d3-a0b9-5bb9045e2275.png)
+![Group 23](https://user-images.githubusercontent.com/113785858/230839218-f728fd5d-9693-4bc7-80d1-1e59cb6897a1.png)
+![Group 24](https://user-images.githubusercontent.com/113785858/230839221-c3392941-90c4-451c-9549-331435d0249f.png)
+## On Playstore(https://play.google.com/store/apps/details?id=com.jazzdev.time_calculator)
 
 A few resources to get you started if this is your first Flutter project:
 
